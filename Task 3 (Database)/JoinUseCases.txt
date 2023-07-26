@@ -1,0 +1,13 @@
+Few useCases of Database Joins are :
+
+1. IoT and Sensor Data:
+
+ 	In the Internet of Things (IoT) domain, joins are used to correlate data from various sensors and devices. This enables real-time monitoring and control of systems like smart grids, environmental monitoring, and industrial automation.
+
+2. Healthcare Information Systems:
+
+	Real-time healthcare applications often deal with diverse sources of patient data, such as electronic health records, medical imaging, and laboratory results.
+By using joins, the application can correlate information from multiple data tables to provide a comprehensive patient profile for medical professionals.
+This unified view can assist doctors in making timely and accurate decisions, especially in critical situations.
+
+
